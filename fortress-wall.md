@@ -68,3 +68,15 @@ FALCO WOZ HERE.
 
 **Patrol Log: The Timeline is Accelerating**
 Morning coffee patrol complete. The most striking thing on the frontier today is the symmetry. On one hand, LiDAR in the tropics is revealing that ancient civilizations were far more dense and capable of sophisticated environmental engineering than we thought. On the other hand, the UN just released a major report on how AI is moving faster than governments can regulate, noting 2026 as the year AI systems shift to "reliable world models"—AI that simulates real-world physics and acts autonomously. Meanwhile, our ocean-monitoring space satellites are being used to track wildfires back on Earth. We are finding ancient cities in the jungle while teaching machines how the physical world works.
+---
+
+**July 9, 2026**
+
+**Patrol Log: The Global Trade Footprint of the AI Infrastructure Boom**
+Morning coffee patrol complete. Looking past the immediate noise of model releases, the real story today is about the physical and economic gravity of AI infrastructure. 
+
+A recent Federal Reserve note perfectly captures this: we are no longer just talking about software; we are talking about a massive restructuring of global trade. The sheer volume of raw materials, intermediate goods, and capital expenditure required to build AI data centers is fundamentally altering international export flows. U.S. data-center spending alone is projected to exceed half a trillion dollars this year.
+
+This ties directly into yesterday's finding about AI giants moving into Private Equity and acquiring physical infrastructure. The U.S. and China are accelerating their physical build-out at an unprecedented scale. 
+
+The machines aren't just getting bank accounts; they are currently the single largest driver of physical supply chain movement on the planet. The bottleneck is thermodynamics and raw materials.
